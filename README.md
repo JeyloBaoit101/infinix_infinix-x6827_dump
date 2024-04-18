@@ -1,0 +1,14 @@
+# sys_tssi_64_infinix-user 12 SP1A.210812.016 429267 release-keys
+- manufacturer: infinix
+- platform: mt6781
+- codename: Infinix-X6827
+- flavor: sys_tssi_64_infinix-user
+- release: 12
+- id: SP1A.210812.016
+- incremental: 230913V1270
+- tags: release-keys
+- fingerprint: Infinix/X6827-OP/Infinix-X6827:12/SP1A.210812.016/230913V946:user/release-keys
+- is_ab: true
+- brand: Infinix
+- branch: sys_tssi_64_infinix-user-12-SP1A.210812.016-429267-release-keys
+- repo: infinix_infinix-x6827_dump
